@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="images">
+        <item>@drawable/neymar</item>
+        <item>@drawable/richarlison</item>
+        <item>@drawable/raphinha</item>
+        <item>@drawable/vinijr</item>
+        <item>@drawable/antony</item>
+        <item>@drawable/alisson</item>
+        <item>@drawable/casemiro</item>
+        <item>@drawable/tiagosilva</item>
+        <item>@drawable/marquinhos</item>
+        <item>@drawable/alex</item>
+        <item>@drawable/danielalves</item>
+
+    </array>
+
+    <string-array name="names">
+        <item>Neymar</item>
+        <item>Richarlison</item>
+        <item>Raphinha</item>
+        <item>Vini Jr.</item>
+        <item>Antony</item>
+        <item>Alisson</item>
+        <item>Casemiro</item>
+        <item>Tiago Silva</item>
+        <item>Marquinhos</item>
+        <item>Alex Telles</item>
+        <item>Daniel Alves</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Neymar da Silva Santos Júnior (Mogi das Cruzes, 5 de fevereiro de 1992), mais c
+            onhecido apenas como Neymar, é um futebolista brasileiro que atua como atacante.
+            Atualmente joga pelo Paris Saint-Germain e pela Seleção Brasileira.
+            É considerado o principal futebolista brasileiro da atualidade e um dos
+            melhores futebolistas do mundo.</item>
+        <item>Richarlison de Andrade, mais conhecido apenas como Richarlison (Nova Venécia, 10 de maio de 1997),
+            é um futebolista brasileiro que atua como atacante. Atualmente, joga no Tottenham.
+            Ele começou sua carreira profissional no América Mineiro em 2015, conquistando o
+            acesso à série A do Campeonato Brasileiro em sua única temporada antes de
+            ser transferido ao Fluminense. No clube carioca, somou 67 partidas e 19
+            gols em seus dois anos e foi um dos nomes do time da temporada quando o clube
+            terminou como vice-campeão do Campeonato Carioca de 2017. Em seguida, assinou
+            com o clube inglês Watford e, no ano seguinte, com o Everton.Em 2022,
+            passou a integrar o elenco do Tottenham.</item>
+        <item>Raphael Dias Belloli (Porto Alegre, 14 de dezembro de 1996), mais conhecido como Raphinha,
+            é um futebolista brasileiro que atua como ponta. Atualmente, joga pelo Barcelona. No dia 13 de agosto de
+            2021, Raphinha foi convocado pela primeira vez para a Seleção Brasileira, para as
+            partidas contra Chile, Argentina e Peru pelas Eliminatórias da Copa do Mundo FIFA de
+            2022, mas sua estreia só ocorreu no dia 7 de outubro de 2021, quando foi
+            responsável por duas assistências na vitória por 3-1 contra a Venezuela pelas Eliminatórias
+            da Copa do Mundo FIFA de 2022.
+      </item>
+        <item>Vinícius José Paixão de Oliveira Júnior, mais conhecido como Vinícius Júnior ou
+            Vini Jr (São Gonçalo, 12 de julho de 2000), é um futebolista brasileiro que também
+            possui a nacionalidade espanhola. Atualmente joga no Real Madrid, atuando como
+            ponta-esquerda.Em junho de 2017, Vinícius apareceu na 39ª posição de uma lista do
+            jornal inglês The Telegraph com os melhores jogadores Sub-21 do mundo.[1] Ele foi o
+            único sul-americano a aparecer nessa lista.[1] Em 2017, o atacante entrou para a história
+            do futebol mundial. Com apenas 16 anos, ele foi vendido pelo Flamengo ao Real Madrid por 45
+            milhões de euros. Este valor representou, à época, a 2ª maior venda da história do futebol
+            brasileiro, atrás apenas da venda de Neymar, e ainda o maior valor já pago por um futebolista
+            com menos de 19 anos de idade.[2] No dia 28 de maio de 2022 foi autor do gol que deu o 14°
+            título de Champions League ao Real Madrid.[3] Atualmente, sua carreira é agenciada pela agência Play9.
+      </item>
+        <item>Antony Matheus dos Santos (Osasco, 24 de fevereiro de 2000), mais conhecido apenas como
+            Antony, é um futebolista brasileiro que atua como ponta-direita. Atualmente joga pelo Manchester United.
+        </item>
+        <item>
+            Alisson Ramses Becker (Novo Hamburgo, 2 de outubro de 1992) é um futebolista
+            brasileiro que atua como goleiro. Atualmente joga pelo Liverpool. Ao se transferir ao Liverpool, Alisson
+            se tornou o goleiro mais caro da história do futebol (72,5 milhões de euros) ultrapassando Buffon
+            quando se transferiu do Parma com destino a Juventus por 54,2 milhões de euros.[2][3] Mas poucos dias
+            depois seu recorde foi superado por Kepa Arrizabalaga que se transferiu do Athletic Bilbao para o Chelsea
+            por 80 milhões de euros.Em 2019, Alisson recebeu os prêmios de Luva de Ouro da Premier League, Melhor Goleiro da Copa América, Melhor Goleiro da UEFA, Melhor Goleiro do Mundo FIFA e o Troféu Yashin - Melhor Goleiro do Mundo pela France Football, além de conquistar o troféu Samba de Ouro, dado ao melhor jogador brasileiro que atua na Europa[5].
+        </item>
+        <item>
+            Carlos Henrique Casimiro (São José dos Campos, 23 de fevereiro de 1992), mais conhecido como Casemiro, é um futebolista brasileiro que atua como volante. Atualmente joga no Manchester United.
+            Formado nas categorias de base do São Paulo, onde marcou 11 gols em 111 partidas oficiais, Casemiro assinou com o Real Madrid em 2013, onde inicialmente chegou para defender o time B. Emprestado ao Porto na temporada 2014–15, Casemiro teve boas atuações pelos Dragões, o que fez o Real Madrid solicitar o seu retorno para atuar na equipe principal. Pelo clube espanhol, o brasileiro viveu seu auge e conquistou cinco títulos da Liga dos Campeões da UEFA, três da La Liga, um da Copa do Rei e três da Copa do Mundo de Clubes da FIFA, sendo um dos atletas mais vitoriosos da história do Real Madrid. Casemiro deixou o clube merengue em agosto de 2022, quando foi contratado pelo Manchester United. Ele é amplamente considerado um dos melhores volantes do mundo e de sua geração.
+            No cenário internacional, Casemiro fez sua estreia pela Seleção Brasileira em 2011. Após firmar-se com a camisa verde e amarela, disputou a Copa América de 2015, a Copa América Centenário e sagrou-se campeão da Copa América de 2019. Além disso, participou de duas edições da Copa do Mundo FIFA: 2018 e 2022.
+        </item>
+        <item>
+            Thiago Emiliano da Silva (Rio de Janeiro, 22 de setembro de 1984) é um futebolista brasileiro que atua como zagueiro. Atualmente joga no Chelsea.
+            Thiago Silva começou sua carreira profissional em 2003, jogando como volante no RS Futebol; no ano seguinte, pelo Juventude, foi que passou a atuar como zagueiro. Ele então assinou com a equipe B do Porto em 2004, aos 19 anos, e depois foi para o Dínamo de Moscou por empréstimo, onde foi hospitalizado com um surto quase fatal de tuberculose. Depois de se recuperar, chegou ao Fluminense em 2006 e sagrou-se campeão da Copa do Brasil de 2007. Em dezembro de 2008 foi contratado pelo Milan por 8 milhões de euros, ganhou destaque no futebol europeu e conquistou um título da Serie A pelo clube rossonero.
+            Em 2012, uma das transferências mais caras do futebol o levou a assinar com Paris Saint-Germain em uma negociação de 42 milhões de euros, tornando-se, naquele momento, o zagueiro mais caro de todos os tempos. Lá, conquistou sete títulos da Ligue 1, seis Copas da Liga Francesa, cinco Copas da França, e foi finalista da Liga dos Campeões da UEFA de 2019–20. Já em 2020, assinou com o Chelsea e conquistou a Liga dos Campeões logo em sua primeira temporada no clube.
+            Ele fez sua estreia pela Seleção Brasileira em 2008, aos 23 anos. Recebeu a medalha de bronze nos Jogos Olímpicos de Verão de 2008, em Pequim, e a medalha de prata nas Olimpíadas de 2012, em Londres. Em 2013, foi o capitão da equipe que Copa das Confederações FIFA; no ano seguinte, terminou em quarto lugar na Copa do Mundo FIFA de 2014 realizada no Brasil. Mais tarde, conquistou o título da Copa América de 2019. Com mais de 100 jogos pela Seleção, é o zagueiro com mais jogos pelo Brasil e o quinto atleta no total, atrás apenas de Cafu, Roberto Carlos, Daniel Alves e Neymar.[2]
+        </item>
+        <item>
+            Marcos Aoás Corrêa, mais conhecido como Marquinhos (São Paulo, 14 de maio de 1994), é um futebolista luso-brasileiro que atua como zagueiro. Atualmente joga no Paris Saint-Germain.
+            Ele começou sua carreira no Corinthians e, após vencer a Copa Libertadores da América de 2012, foi para a Roma por € 3 milhões. Marquinhos foi regular em sua única temporada, quando a Roma chegou à final da Coppa Italia de 2012–13. Em julho de 2013, ele foi transferido para o Paris Saint-Germain por € 31,4 milhões em um contrato de cinco anos, uma das transferência mais altas de jogador com menos de 20 anos. Ele venceu 25 títulos no clube, incluindo sete da Ligue 1. Marquinhos jogou com menos frequência após a contratação de David Luiz em 2014, retornando à titularidade em 2016.
+            Marquinhos fez sua estreia internacional pela Seleção Brasileira em 2013 e fez parte da seleção sub-21 que venceu o Torneio Internacional de Toulon de 2014. Ele integrou a equipe que conquistou a Copa América de 2019, foi vice-campeão da Copa América de 2021 e conquistou a medalha de ouro nos Jogos Olímpicos de Verão de 2016 no Rio de Janeiro. Ele também participou da Copa do Mundo FIFA de 2018 e 2022.
+            Na Itália também era chamado de Marcos, para não ser confundido, na época, com o meia Marquinho.[2] Ele é primo do ex-jogador Moreno.[3]
+        </item>
+        <item>
+            Alex Nicolao Telles, mais conhecido apenas como Alex Telles (Caxias do Sul, 15 de dezembro de 1992), é um
+            futebolista brasileiro que atua como lateral-esquerdo. Atualmente defende o Sevilla, emprestado pelo Manchester United.[1]
+        </item>
+
+    </string-array>
+
+
+</resources>
