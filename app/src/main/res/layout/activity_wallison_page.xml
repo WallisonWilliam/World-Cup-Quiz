@@ -25,7 +25,7 @@
         android:gravity="center_horizontal"
         android:shadowColor="@color/cardview_dark_background"
         android:text="Oi, meu nome é Wallison William, tenho 20 anos de idade, e estou cursando Ciência da Computação pela Universidade Católica de Pernambuco, além disso, costumo fazer cursos focados na área da programação"
-        android:textAllCaps="true"
+        android:textAllCaps="false"
         android:textColor="@color/white"
         android:textStyle="normal">
 

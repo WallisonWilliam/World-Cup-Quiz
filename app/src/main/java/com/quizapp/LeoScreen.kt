@@ -13,9 +13,9 @@ class LeoScreen : AppCompatActivity() {
         github.setOnClickListener {
             startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/leohcavalcanti")))
         }
-        /*
-        btn_back.setOnClickListener{
+
+        bt_imageView.setOnClickListener{
             startActivity(Intent(this,MainActivity::class.java))
-        }*/
+        }
     }
 }

@@ -2,7 +2,7 @@
 <resources>
     <!--TODO (STEP 1: Change the theme colors as per our requirement.)-->
     <!--START-->
-    <color name="colorPrimary">#9013FE</color>
+    <color name="colorPrimary">#000000</color>
     <color name="colorPrimaryDark">#6A1B9A</color>
     <color name="colorAccent">#9013FE</color>
     <color name="red">#F95057</color>
